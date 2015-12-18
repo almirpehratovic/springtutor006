@@ -2,7 +2,7 @@
 ## Preface
 This is example of translating Spring MVC application in different languages. Tutorial can be found at 
 
-https://springtutor.wordpress.com
+https://springtutor.wordpress.com/2015/12/18/spring-mvc-internationalization/
 
 ## Getting Started
 
